@@ -2357,65 +2357,65 @@ body {
 .cid-rz6YOTrXwx .mbr-text {
   color: #465052;
 }
-.cid-rz73VDeTlu {
+.cid-rCpQk50oeg {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
-.cid-rz73VDeTlu .title {
+.cid-rCpQk50oeg .title {
   padding-bottom: 2.5rem;
 }
-.cid-rz73VDeTlu h4 {
+.cid-rCpQk50oeg h4 {
   width: 85%;
   font-weight: 500;
   margin-bottom: 0;
 }
-.cid-rz73VDeTlu .bottom-line p {
+.cid-rCpQk50oeg .bottom-line p {
   color: #767676;
 }
-.cid-rz73VDeTlu .card-wrapper {
+.cid-rCpQk50oeg .card-wrapper {
   background-color: #ffffff;
   background-color: transparent;
   position: relative;
   justify-content: unset;
 }
-.cid-rz73VDeTlu .card-wrapper .card-box {
+.cid-rCpQk50oeg .card-wrapper .card-box {
   width: 100%;
 }
-.cid-rz73VDeTlu .card-wrapper .card-box .wrapper {
+.cid-rCpQk50oeg .card-wrapper .card-box .wrapper {
   height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
 }
-.cid-rz73VDeTlu .card-wrapper .card-box .wrapper .top-line {
+.cid-rCpQk50oeg .card-wrapper .card-box .wrapper .top-line {
   width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
-.cid-rz73VDeTlu .card-wrapper .card-box .wrapper .bottom-line {
+.cid-rCpQk50oeg .card-wrapper .card-box .wrapper .bottom-line {
   width: 85%;
 }
 @media (max-width: 767px) {
-  .cid-rz73VDeTlu .card-wrapper .card-box .wrapper .bottom-line {
+  .cid-rCpQk50oeg .card-wrapper .card-box .wrapper .bottom-line {
     width: 100%;
   }
-  .cid-rz73VDeTlu .card-wrapper .card-box .wrapper .bottom-line p {
+  .cid-rCpQk50oeg .card-wrapper .card-box .wrapper .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
   }
 }
 @media (max-width: 767px) {
-  .cid-rz73VDeTlu .card.pb-5 {
+  .cid-rCpQk50oeg .card.pb-5 {
     padding-bottom: 2rem !important;
   }
-  .cid-rz73VDeTlu .wrapper {
+  .cid-rCpQk50oeg .wrapper {
     padding-top: 1rem;
   }
 }
-.cid-rz73VDeTlu .card-title {
+.cid-rCpQk50oeg .card-title {
   text-align: center;
 }
 .cid-rz78vunns1 {
